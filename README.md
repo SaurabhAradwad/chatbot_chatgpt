@@ -9,4 +9,4 @@ Simple chatbot using openai api
 - Open this on IP link in any browser and you are good to go.
 
 # Screenshot
-
+![Chatbot_open_ai](https://user-images.githubusercontent.com/102751810/223127289-e7aaffba-65e5-4c72-ae37-0f7e5a68b2b0.png)
