@@ -12,3 +12,4 @@ Simple chatbot using openai api
 ![Chatbot_open_ai](https://user-images.githubusercontent.com/102751810/223127289-e7aaffba-65e5-4c72-ae37-0f7e5a68b2b0.png)
 
 # Screenshot Amazon_bot
+![assignment](https://user-images.githubusercontent.com/102751810/223668919-3339a2be-198f-42de-9a99-703a5351787f.png)
