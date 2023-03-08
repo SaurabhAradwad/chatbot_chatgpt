@@ -8,5 +8,7 @@ Simple chatbot using openai api
 - Run this script on local IDE. This will generate a local IP address.
 - Open this on IP link in any browser and you are good to go.
 
-# Screenshot
+# Screenshot Simple chatbot
 ![Chatbot_open_ai](https://user-images.githubusercontent.com/102751810/223127289-e7aaffba-65e5-4c72-ae37-0f7e5a68b2b0.png)
+
+# Screenshot Amazon_bot
